@@ -1,4 +1,5 @@
 Dynamic Graph Neural Evolution (DGNE)
+
 Overview
 
 Dynamic Graph Neural Evolution (DGNE) is an innovative optimization framework that integrates Graph Neural Networks (GNNs) with Evolutionary Algorithms (EAs). It builds upon the foundation of Graph Neural Evolution (GNE) and introduces dynamic filtering mechanisms and adaptive Gaussian sampling functions to adjust the population distribution during the optimization process. DGNE achieves a balance between global exploration and local exploitation, enhancing optimization efficiency.
