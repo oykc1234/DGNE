@@ -1,5 +1,4 @@
 Dynamic Graph Neural Evolution (DGNE)
-![image](https://github.com/user-attachments/assets/6b849f02-4cc1-4903-8cde-ccb6fa4a629a)
 
 Overview
 
@@ -33,3 +32,6 @@ DGNE is a state-of-the-art optimization framework that leverages the power of Gr
 Authors and Contact
 
 This code is for the paper "Dynamic Graph Neural Evolution: An Evolutionary Framework Integrating Graph Neural Networks with Adaptive Filtering", which has been accepted for an oral presentation at the 2025 IEEE Congress on Evolutionary Computation. The authors are Kaichen Ouyang, Shengwei Fu, Yi Chen, and Huiling Chen. For inquiries, contact oykc@mail.ustc.edu.cn.
+
+
+![image](https://github.com/user-attachments/assets/6b849f02-4cc1-4903-8cde-ccb6fa4a629a)
