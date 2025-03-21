@@ -1,4 +1,5 @@
 Dynamic Graph Neural Evolution (DGNE)
+![image](https://github.com/user-attachments/assets/6b849f02-4cc1-4903-8cde-ccb6fa4a629a)
 
 Overview
 
